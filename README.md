@@ -1,4 +1,4 @@
-### Hi there 👋
+### Its a-me, Sako!
 
 <!--
 **sako-is/sako-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=sako-is&theme=radical&layout=compact&count_private=true" >
+<img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sako-is&layout=compact&theme=radical" >
+</p>
